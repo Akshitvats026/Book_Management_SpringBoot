@@ -23,7 +23,7 @@ Perform **full CRUD operations**: Add, View, Edit, and Delete books with a **bea
 ### Home Page / Book List
 
 <p align="center">
-  <img src="assests/demo.png" width="500">
+  <img src="Book_assets.jpeg" width="500">
 </p>
 
 ---
